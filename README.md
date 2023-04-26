@@ -15,6 +15,5 @@ English.
 
 ## Licences
 British-English Language Tools, and, by extension, Oxford English Language
-Tools is made available under a [GPL3 license]
-(https://github.com/kaubu/oxford-english-language-tools/blob/main/LICENSE)
+Tools is made available under a [GPL3 license](./LICENSE)
 
