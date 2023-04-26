@@ -21,12 +21,3 @@ for small changes, but bigger changes should look like this, or similar:
     $ git commit -m "A brief summary of the commit.
     > 
     > A short paragraph describing what has changed."
-
-### GitHub not really your thing?
-
-Please get in touch via e-mail: *vii [AT] cybrkyd [DOT] com*
-
-Thanks,
-
---cybrkyd--
-
