@@ -1,6 +1,6 @@
 
 # Oxford English Language Tools
-A collection of British-English language tools.
+A collection of Oxford-English language tools.
 
 ## Acknowledgement
 This repo is a clone of the British-English Language Tools repository,
