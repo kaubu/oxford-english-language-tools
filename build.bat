@@ -1,0 +1,1 @@
+web-ext build -s ./extension/ -a ./artifacts/
