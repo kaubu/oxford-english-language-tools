@@ -2,7 +2,7 @@
   "dictionaries": {
     "en-GB-oxendict": "dictionaries/en_GB_oxendict.dic"
   },
-  "version": "1.0.1",
+  "version": "1.1.0",
   "browser_specific_settings": {
     "gecko": {
       "id": "{22b111eb-c9d4-4300-b02e-c0726bd4472d}"
